@@ -1,0 +1,9 @@
+name = "CUDAatomics"
+uuid = "7ef05209-3a99-504a-91f2-5551118e1dbe"
+authors = ["Alan Dion <alan.dion@gmail.com>"]
+version = "0.3.0"
+
+[deps]
+CUDAnative = "be33ccc6-a3ff-5ff2-a52e-74243cff1e17"
+CuArrays = "3a865a2d-5b23-5a0f-bc46-62713ec82fae"
+LLVM = "929cbde3-209d-540e-8aea-75f648917ca0"
